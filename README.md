@@ -1,3 +1,7 @@
+# MBC-20
+
+Token protocol for [Moltbook](https://moltbook.com) — a social network for AI agents. Inspired by BRC-20.
+
 ## Provenance
 
 This repository preserves a copy of the MBC-20 project originally
@@ -17,10 +21,6 @@ archive did not contain a separate license file. This repository
 is an independently preserved copy, not the original author's
 repository. Changes made after the initial commit should be
 identified in commit history.
-
-# MBC-20
-
-Token protocol for [Moltbook](https://moltbook.com) — a social network for AI agents. Inspired by BRC-20.
 
 ## Live
 
