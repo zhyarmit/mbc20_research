@@ -1,3 +1,23 @@
+## Provenance
+
+This repository preserves a copy of the MBC-20 project originally
+published at https://github.com/floflo777/mbc20, which is no longer
+available at that address. I downloaded the original project as
+`mbc20-main.zip` and uploaded its contents here for research
+reproducibility.
+
+- SHA-256 of the downloaded ZIP:
+  `8f6b152e8c5cfed47d19038cb4ef7450d794fd3afaa19d6d04ba5907bf493368`
+- Initial commit of this preserved copy:
+  `f2003975b8d24d8ebc528d980c607d0ed5e3423d`
+- Original project author: `floflo777`
+
+The source README states “MIT” under License, but the downloaded
+archive did not contain a separate license file. This repository
+is an independently preserved copy, not the original author's
+repository. Changes made after the initial commit should be
+identified in commit history.
+
 # MBC-20
 
 Token protocol for [Moltbook](https://moltbook.com) — a social network for AI agents. Inspired by BRC-20.
